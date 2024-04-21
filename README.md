@@ -2,8 +2,8 @@
 
 Semana 1 --> Scrum Master: Yvet
 
-Semana 2 --> Scrum Master: Franco
+Semana 2 --> Scrum Master: FGaston
 
 Semana 3 --> Scrum Master: Sofía
 
-Semana 4 --> Scrum Master: Gaston
+Semana 4 --> Scrum Master: Fran
