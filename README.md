@@ -2,7 +2,7 @@
 
 Semana 1 --> Scrum Master: Yvet
 
-Semana 2 --> Scrum Master: FGaston
+Semana 2 --> Scrum Master: Gaston
 
 Semana 3 --> Scrum Master: Sofía
 
