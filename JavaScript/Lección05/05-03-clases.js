@@ -4,6 +4,9 @@ class Persona{ // Creamos una clase
         this._apellido = apellido;
     }
 
+
+
+
     // Métodos Get and Set
 
     get nombre(){
@@ -62,6 +65,7 @@ class Empleado extends Persona{ // Clase hija
 
 }
 
+// Prueba
 let empleado1 = new Empleado('María', 'Gimenez', 'Sistemas');
 console.log(empleado1);
 console.log(empleado1.nombreCompleto());
